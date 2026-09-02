@@ -1,0 +1,5 @@
+{
+    "task_name": "Sales Report",
+    "task_type": "report",
+    "schedule": "5 minutes"
+}
